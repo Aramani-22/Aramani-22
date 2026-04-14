@@ -1,7 +1,7 @@
 ### Hi there, I'm Aditi Ramani  👋
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
 
-![Profile_views](https://komarev.com/ghpvc/?username=Laaaaksh&label=PROFILE+VIEWS&color=blueviolet)
+![Profile_views](https://komarev.com/ghpvc/?username=Aramani-22&label=PROFILE+VIEWS&color=blueviolet)
 ## Software Engineer
 
 🚀 Presently rocketing through the software world at Mounterra Innovations
@@ -21,7 +21,7 @@
 
 🎇Github Stats             |  🎇Top Languages
 :-------------------------:|:-------------------------:
-![Aditi's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aramani-22&theme=tokyonight&show_icons=true&cache_seconds=86400) | ![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Laaaaksh&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Aditi's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aramani-22&theme=tokyonight&show_icons=true&cache_seconds=86400) | ![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aramani-22&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 
 </details>
